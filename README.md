@@ -13,7 +13,8 @@ Popup:
 ![image](https://github.com/user-attachments/assets/28b2ddef-d705-4a64-aacf-d2e11820328b)
 
 Teams card sent on OneOnOne chat:
-![image](https://github.com/user-attachments/assets/be3a3354-9bba-4617-a915-918e1f6ab559)
+![image](https://github.com/user-attachments/assets/b082ea28-c6b3-4d06-8a8a-95e14563198b)
+
 
 
 
