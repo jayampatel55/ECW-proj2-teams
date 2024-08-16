@@ -5,3 +5,4 @@ This project works as follows:
 2. Popup asks for 2 input fields, 1st, org emailID, 2nd notes(optional)
 3. Then Onclick to proceed, the message is sent to the respective emails provided(OneOnOne).
 Every data is possibly made dynamic according company requirements.
+![image](https://github.com/user-attachments/assets/ae965629-d2e2-43da-a0e4-cafda0b36938)
